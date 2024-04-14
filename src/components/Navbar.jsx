@@ -21,7 +21,7 @@ const Navbar = () => {
       <nav className="container flex flex-row justify-between items-center">
         <div>
           <Link to="home" spy={true} smooth={true} duration={500}>
-            <h1 className=" font-bold text-2xl text-secondary">CheesyBites.</h1>
+            <h1 className=" font-bold text-2xl text-secondary">Pizza-Lover.</h1>
           </Link>
         </div>
         <nav className=" hidden lg:flex gap-10 text-secondary font-semibold text-xl">
