@@ -5,37 +5,37 @@ const Menu = () => {
   const menuData = [
     {
       id: 1,
-      img: "src/assets/img/menu1.jpg",
+      img: "https://i.ibb.co/h2vnpdF/menu1.jpg",
       title: "Margarita Marvel",
       price: "16.99",
     },
     {
       id: 2,
-      img: "src/assets/img/menu2.jpg",
+      img: "https://i.ibb.co/6DnTSXW/menu2.jpg",
       title: "Pesto Paradise",
       price: "18.99",
     },
     {
       id: 3,
-      img: "src/assets/img/menu3.jpg",
+      img: "https://i.ibb.co/d6c20yV/menu3.jpg",
       title: "Hawaiian Bliss",
       price: "14.99",
     },
     {
       id: 4,
-      img: "src/assets/img/menu4.jpg",
+      img: "https://i.ibb.co/SsrnCdp/menu4.jpg",
       title: "Truffle Treasures",
       price: "15.99",
     },
     {
       id: 5,
-      img: "src/assets/img/menu5.jpg",
+      img: "https://i.ibb.co/N9Rqr2D/menu5.jpg",
       title: "Farmhouse Harvest",
       price: "18.99",
     },
     {
       id: 6,
-      img: "src/assets/img/menu6.jpg",
+      img: "https://i.ibb.co/1G8C47f/menu6.jpg",
       title: "Cheese Frenzy",
       price: "13.99",
     },

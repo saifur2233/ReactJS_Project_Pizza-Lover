@@ -5,25 +5,25 @@ const OtherMenu = () => {
   const menuData = [
     {
       id: 7,
-      img: "src/assets/img/menu7.jpg",
+      img: "https://i.ibb.co/0cfD8Rm/menu7.jpg",
       title: "Margarita Marvel",
       price: "16.99",
     },
     {
       id: 8,
-      img: "src/assets/img/menu8.jpg",
+      img: "https://i.ibb.co/m9B2ZBh/menu8.jpg",
       title: "Pesto Paradise",
       price: "18.99",
     },
     {
       id: 9,
-      img: "src/assets/img/menu9.jpg",
+      img: "https://i.ibb.co/wJn9zTJ/menu9.jpg",
       title: "Hawaiian Bliss",
       price: "14.99",
     },
     {
       id: 10,
-      img: "src/assets/img/menu10.jpg",
+      img: "https://i.ibb.co/GMbMztN/menu10.jpg",
       title: "Truffle Treasures",
       price: "15.99",
     },
