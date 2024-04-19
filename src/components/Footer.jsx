@@ -80,10 +80,10 @@ const Footer = () => {
           <h1 className=" font-medium text-xl pb-4 pt-5 md:pt-0">Contact Us</h1>
           <div className=" flex flex-col gap-2">
             <Link to="/" spy={true} smooth={true} duration={500}>
-              CheesyBites@gmail.com
+              saifurnstuiit223344@gmail.com
             </Link>
             <Link to="/" spy={true} smooth={true} duration={500}>
-              +64 958 248 966
+              +880 1838082983
             </Link>
             <Link to="/" spy={true} smooth={true} duration={500}>
               Social media
@@ -94,7 +94,7 @@ const Footer = () => {
       <div>
         <p className=" text-center py-4">
           @copyright developed by
-          <span className=" text-yellow-500"> champion programmers</span> | All
+          <span className=" text-yellow-500">MD SAIFUR RAHMAN</span> | All
           rights reserved
         </p>
       </div>
